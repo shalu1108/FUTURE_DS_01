@@ -8,7 +8,7 @@ high-value categories, and regional performance.
 - Power BI
 
 # Dataset
-- Source: Public business sales dataset
+- Source: Superstore Sales Dataset (Kaggle)
 - Format: CSV
 
 # Key Analysis Areas
