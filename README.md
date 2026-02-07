@@ -21,5 +21,3 @@ high-value categories, and regional performance.
 - Interactive Power BI dashboard
 - Business insights and actionable recommendations
 
-# Status
-Repository setup completed. Dashboard development in progress.
